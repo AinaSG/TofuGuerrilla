@@ -52,7 +52,7 @@ We like it with some kick but without making it a masochist fantasy, but the bra
 
 ![bags of chili](images/chilis.jpg)
 
-The small bag on the left is the brand I usually use, I can recommend it, good flavor. If you dislike spiciness and want something more on the toasty notes, the right one is a good option. The booth can be found in most import stores in the city. Maybe you need to look for them in the Korean section if you don't find them with the dried goods. 
+The small bag on the left is the brand I usually use, I can recommend it, good flavor. If you dislike spiciness and want something more on the toasty notes, the right one is a good option. They both can be found in most import stores in the city. Maybe you need to look for them in the Korean section if you don't find them with the dried goods. 
 
 ### Notes on the oil
 Ideally, you want to use here a high smoke point neutral flavor oil. A good quality refined Sunflower oil is a great option. It has no flavor and a 230ºC smoke point, which makes it perfect for high-temperature work. We are going to (Spoilers!) heat the oil to 180º during the recipe, so you need to avoid oils that burn at lower temperatures. This includes Butter, Lard, Coconut oil, unrefined oils like Corn, Peanut or Flaxseed, and also unrefined Sunflower oil (So be careful when buying sunflower seed oil that you get the right one!).

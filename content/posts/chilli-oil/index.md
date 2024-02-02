@@ -2,9 +2,6 @@
 title: "Chili Oil"
 date: 2024-02-01T23:45:03+01:00
 draft: false
-tags:
-- Food
-- English
 ---
 *A write-down for David and anyone else that cares*
 
@@ -53,7 +50,7 @@ A selection of the following spices that you want. I'm going to put a 🫑 emoji
 Pick the brand and cultivar that fits your spice tolerance level and personal taste. You don't need to prove anything to anyone.
 We like it with some kick but without making it a masochist fantasy, but the brand that we use comes in smaller bags since I needed a big amount for this recipe (by this point I was starting to realize the magnitude of the tragedy) I had to go for a different one that ended up being very mild. 
 
-![bags of chili](/posts/chilli-oil/images/chilis.jpg)
+![bags of chili](images/chilis.jpg)
 
 The small bag on the left is the brand I usually use, I can recommend it, good flavor. If you dislike spiciness and want something more on the toasty notes, the right one is a good option. The booth can be found in most import stores in the city. Maybe you need to look for them in the Korean section if you don't find them with the dried goods. 
 
@@ -80,23 +77,23 @@ Finally, we got here! Do you have everything? Now for the easy part, cooking! (p
 I recommend you read the recipe at least once entirely before starting to cook, I tried to remove any circular dependences, but this entire post is re-formatted from my notes and it was not originally thought of as a guide, so I might have left something in a weird order. 
 
 ### The dry ingredients
-![spices](/posts/chilli-oil/images/dry.jpeg)
+![spices](images/dry.jpeg)
 Start by weighing all the dry ingredients and dump them in a heat-resistant container that is at least the same volume as the oil + the dry ingredients. If you can choose, wide is better than tall, you want as much surface of the dry ingredients in the open as possible.
 
 Mix them well with a spoon or with your hands. If you use your hands, try to touch your eyeballs afterward for a funny effect.
 
 ### The aromatic oil
-![spices](/posts/chilli-oil/images/especies-s.jpg)
+![spices](images/especies-s.jpg)
 
 Now we are going to prepare a dual-purpose aromatic oil/air freshener.
 
 Measure all the Aromatic oil ingredients, dump the oil into your pot and clean the vegetables. You want to cut them in chonky pieces, a size where they have enough surface to release all the flavor but not too small so they will be a nightmare to remove (Leave that job to the peppercorns lol, if I had a [spice ball](https://137106273.cdn6.editmysite.com/uploads/1/3/7/1/137106273/s367055826969951762_p1116_i1_w2307.jpeg) I would use it, but I do not, so if you are on the same situation, get mentalized because the karate kid training is coming)
 
-![spices](/posts/chilli-oil/images/boiliboili.jpg)
+![spices](images/boiliboili.jpg)
 
 Start warming the oil and once it's hot, add all the prepared spices and fry it for a good while, mix from time to time to infuse the aroma of the ingredients. Be careful not to let them burn, it's better to have this process take longer than to end up with bitter oil that you will need to throw away.
 
-![spices](/posts/chilli-oil/images/tosti.jpg)
+![spices](images/tosti.jpg)
 
 After a bit, all the fresh spices will look golden and your home is going to smell amazing (see, I promised). Turn the fire off and carefully remove all the ingredients with a slotted spoon, trying to keep as much oil as you can in the pan. For any other smaller spices left (I'm looking at you, peppercorns) you can use a small strainer or some chopsticks to pick them out (*Man who catch peppercon with chopstick accomplish anything*). 
 
@@ -108,11 +105,11 @@ Now is a good moment to take a break.
 
 First of all, with the oil not too hot, we are going to take around 20% of it (about 200mL for the Liter of our recipe) and wet the chili mix with it. Mix well so all chilis are humid. This is an Aina Patented Tip (Aina-Patented-Tip™️) to avoid the chilis of one side acting as a barrier and burning before the rest.
 
-![spices](/posts/chilli-oil/images/humit.jpg)
+![spices](images/humit.jpg)
 
 Now let's get to the by now hopefully free of solids oil. Stick your thermometer in and we are going to warm it until it is 180ºC hot. Try to get as close to this temperature as possible. A much lower temperature won't toast the chilis properly, a much higher temperature will burn them. 
 
-![spices](/posts/chilli-oil/images/termometre.jpg)
+![spices](images/termometre.jpg)
 
 Once you reach it, turn the fire off, wait some seconds to make sure your thermometer does not lag and your oil is not too hot, and carefully pour it on top of all the wet chillis before it gets too cold. If you are using a sane amount of oil, you can probably just carefully grab the pot and dump it **AWAY FROM YOU!** on the chilis.
 
@@ -120,7 +117,7 @@ I'm not joking here, I would be very sad if you managed to burn yourself in this
 
 If you need to deal with large amounts, I found it useful to use a long-handle saucepan as a large-capacity spoon, to move the oil from one pot to the other. 
 
-![spices](/posts/chilli-oil/images/mullat.jpg)
+![spices](images/mullat.jpg)
 
 It will make a sizzling noise and smell toasty and amazing. Carefully use a heat-resistant spatula to move around the solids a bit to make sure the hot oil touches them all. 
 
@@ -139,7 +136,7 @@ If you are a deranged human too, you will probably have a ton of jars to divide 
 
 This is what a sane person's dishwasher looks like:
 
-![spices](/posts/chilli-oil/images/d1d2.jpg)
+![spices](images/d1d2.jpg)
 
 Before bottling, make sure the jars are completely dry, any water left will precipitate to the bottom of the oil and it will be difficult to remove and become a health concern.
 
@@ -147,7 +144,7 @@ Then, with a big spoon, you are going to fill every jar, making sure to mix well
 
 \*have a small panic attack\*
 
-![spices](/posts/chilli-oil/images/panic.jpg)
+![spices](images/panic.jpg)
 
 Do not worry too much about making a mess, it's unavoidable. If you are going to keep the jars closed for some time, use a towel soaked in a mix of water and white vinegar to wipe out any solids from the screw before closing it, this way you will better avoid leaks and other issues during storage.
 
@@ -155,4 +152,4 @@ Once you are done, you can use a towel with some dishwasher soap on it to wipe t
 
 Let the jars dry and you are done!
 
-![spices](/posts/chilli-oil/images/done.jpg)
+![spices](images/done.jpg)

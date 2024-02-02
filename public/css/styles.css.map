@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/aina/Projects/Blog/blog-master",
+	"sourceRoot": "/Users/aina.soler/Personal/TofuGuerrilla",
 	"sources": [
 		"themes/cactus/assets/scss/style.scss",
 		"themes/cactus/assets/scss/_variables.scss",

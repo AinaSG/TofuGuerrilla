@@ -1,7 +1,10 @@
 ---
 title: "Chili Oil"
 date: 2024-02-01T23:45:03+01:00
-draft: true
+draft: false
+tags:
+- Food
+- English
 ---
 *A write-down for David and anyone else that cares*
 

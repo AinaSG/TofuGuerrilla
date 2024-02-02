@@ -1,0 +1,25 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Tofu Guerrilla"
+copyright = "Aina"
+
+theme = "cactus"
+
+[params]
+
+description = "Me interesan los procesados, los idiomas y como se hacen las cosas en general. Escribo sobre lo que me apetezca. Sometimes in English, a veces en Español, a vegades en Català. No se escribir, perdonad las faltas."
+mainSection = "posts"
+mainSectionTitle = "Posts"
+dateFormat = "01-02-2006"
+mathjax = true
+logo = "images/gimp.png"
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
